@@ -1,0 +1,8 @@
+$color: red;
+
+.hello {
+  color: $color;
+  &__part1 {
+    color: blue;
+  }
+}
